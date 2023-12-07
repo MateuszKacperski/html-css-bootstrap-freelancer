@@ -18,24 +18,80 @@ header{
 .icona{
 
     background-color: red;
-    min-height: 50px;
+    height: 50px;
 
 }
 
 .menu{
 
     background-color: red;
-    min-height: 50px;
+    height: 50px;
 }
 
 
 .jumbotron{
     background-color: #1ABC9C;
-    min-height: 400px;
+    height: 400px;
 }
 
 .jumbocontent{
     background-color: red;
-    min-height: 50px;
+    height: 50px;
+    border:2px dashed black;
+}
+
+
+/*portfolio*/
+
+
+
+.portfolio-content{
+    height: 200px;
+    background-color: red;
+    border:2px dashed black;
+}
+
+/*about */
+
+.about{
+    background-color: #1ABC9C;
+}
+
+.about-content{
+    height: 200px;
+    background-color: red;
+    border:2px dashed black;
+}
+
+/* contact me */
+
+.contact{
+    height: 200px;
+    background-color: red;
+    border:2px dashed black;
+}
+
+/* info */ 
+
+.info-bg{
+    background-color: #3A546D;
+}
+
+.info{
+    height: 50px;
+    background-color: red;
+    border:2px dashed black; 
+}
+
+/*footer */
+
+.footer{
+    background-color: #2C3E50;
+    height: 200px;
+}
+
+.footer-content{
+    height: 50px;
+    background-color: red;
     border:2px dashed black;
 }
