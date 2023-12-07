@@ -4,3 +4,38 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+/* header */ 
+
+
+header{
+    background-color: #2C3E50;
+    height: 100px;
+}
+
+
+.icona{
+
+    background-color: red;
+    min-height: 50px;
+
+}
+
+.menu{
+
+    background-color: red;
+    min-height: 50px;
+}
+
+
+.jumbotron{
+    background-color: #1ABC9C;
+    min-height: 400px;
+}
+
+.jumbocontent{
+    background-color: red;
+    min-height: 50px;
+    border:2px dashed black;
+}
