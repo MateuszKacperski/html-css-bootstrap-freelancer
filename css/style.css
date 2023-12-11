@@ -23,25 +23,10 @@
 
 .jumbotron{
     background-color: #1ABC9C;
-    height: 400px;
+    border:transparent;
+  
 }
 
-.jumbocontent{
-    background-color: red;
-    height: 50px;
-    border:2px dashed black;
-}
-
-
-/*portfolio*/
-
-
-
-.portfolio-content{
-    height: 200px;
-    background-color: red;
-    border:2px dashed black;
-}
 
 /*about */
 
@@ -49,18 +34,22 @@
     background-color: #1ABC9C;
 }
 
-.about-content{
-    height: 200px;
-    background-color: red;
-    border:2px dashed black;
-}
 
 /* contact me */
 
-.contact{
-    height: 200px;
-    background-color: red;
-    border:2px dashed black;
+#contact .form-control{
+    padding-left: 0;
+    border-radius: 0;
+    border-width: 0 0 1px 0;
+}
+
+
+#contact .form-control::placeholder{
+    color:#2C3E50;
+}
+
+.button-color{
+    background-color: #1ABC9C;
 }
 
 /* info */ 
@@ -69,21 +58,14 @@
     background-color: #3A546D;
 }
 
-.info{
-    height: 50px;
-    background-color: red;
-    border:2px dashed black; 
+.txt-color{
+    color: #1FAE96;
 }
+
 
 /*footer */
 
 .footer{
     background-color: #2C3E50;
-    height: 200px;
 }
 
-.footer-content{
-    height: 50px;
-    background-color: red;
-    border:2px dashed black;
-}
