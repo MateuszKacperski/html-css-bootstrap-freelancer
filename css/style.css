@@ -6,6 +6,32 @@
 }
 
 
+/*Utilse*/
+
+img{
+    height: 100%;
+    width: auto;
+    display: block;
+}
+
+
+h2{
+    color: white;
+
+}
+h3{
+    color: white;
+
+}
+h6{
+    color: white;
+
+}
+p{
+    color: white;
+
+}
+
 /* header */ 
 
 
@@ -28,12 +54,19 @@
 }
 
 
+
+
 /*about */
 
 .about{
     background-color: #1ABC9C;
 }
 
+
+.about-btn{
+    color: white;
+    border: 1px solid white;
+}
 
 /* contact me */
 
