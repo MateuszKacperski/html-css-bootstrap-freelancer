@@ -9,24 +9,16 @@
 /* header */ 
 
 
-header{
+.header-bg{
     background-color: #2C3E50;
-    height: 100px;
+  
+}
+
+.header-color{
+    color: #FFFFFF;
 }
 
 
-.icona{
-
-    background-color: red;
-    height: 50px;
-
-}
-
-.menu{
-
-    background-color: red;
-    height: 50px;
-}
 
 
 .jumbotron{
